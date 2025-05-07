@@ -1,4 +1,4 @@
-![alt text](logo-1.png)
+![alt text](logo.png)
 
 <!-- <img src="./img/LogoPL.png" alt="LogoPL" width="300"/> -->
 
@@ -21,7 +21,7 @@
 **Descripción**
 ------------
 
-Bienvenido al repositorio de acompañamiento al curso Online de Data Science de TheBridge dedicado en exclusiva a los enunciados de los ejercicios (de entrenamiento, extras y obligatorios).
+Bienvenido al repositorio de acompañamiento al curso Online de Data Science de The Bridge dedicado en exclusiva a los enunciados de los ejercicios (de entrenamiento, extras y obligatorios).
 
 El repositorio se divide en los mismos módulos que el repositorio principal:
 
@@ -33,8 +33,8 @@ El repositorio se divide en los mismos módulos que el repositorio principal:
 6. Data Engineering
 
 
-En cada módulo irás encontrando, agrupados por sprints y unidades, los enunciados de los ejercicios.
-IMPORTANTE: Las soluciones que se publiquen lo serán en [el Repo principal del curso](https://github.com/albertoromv/DS_Online_Febr25) 
+En cada módulo irás encontrando, agrupados por sprints y unidades, los enunciados de los ejercicios.  
+<!-- IMPORTANTE: Las soluciones que se publiquen lo serán en [el Repo principal del curso](https://github.com/albertoromv/DS_Online_Febr25)  -->
 
 **Comentarios y Aclaraciones**
 ----------------------------
