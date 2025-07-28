@@ -19,6 +19,7 @@ model = Lasso(alpha=6000)
 
 cross_val_train_MSE = cross_val_score(model, X_train, y_train, cv = 4, scoring= "neg_mean_squared_error")
 cross_val_train_MAPE = cross_val_score(model, X_train, y_train, cv = 4, scoring= "neg_mean_absolute_percentage_error")
+
 mse_cross_val = -np.mean(cross_val_train_MSE)
 rmse_cross_val = np.mean([np.sqrt(-mse_fold) for mse_fold in cross_val_train_MSE])
 mape_cross_val = -np.mean(cross_val_train_MAPE)
